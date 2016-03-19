@@ -1,4 +1,4 @@
-package ru.bakigoal;
+package ru.bakigoal.lib;
 
 public class Simple {
  private int value;
